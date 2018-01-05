@@ -1,3 +1,3 @@
-# Headline
+# LearningNotes
 
-> An awesome project.
+> A personal learning note project.
