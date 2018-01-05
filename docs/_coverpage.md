@@ -9,5 +9,5 @@
 - Not build static html files
 
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
+[GitHub](https://github.com/li10217)
 [Get Started](#quick-start)
