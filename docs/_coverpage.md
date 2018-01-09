@@ -10,4 +10,4 @@
 
 
 [GitHub](https://github.com/li10217)
-[Get Started](#quick-start)
+[Get Started](/zh-cn/)

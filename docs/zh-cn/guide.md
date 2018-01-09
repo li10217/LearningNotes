@@ -2,6 +2,6 @@
 
 ## Header {docsify-ignore}
 
-# Getting Started {docsify-ignore-all}
+### Getting Started {docsify-ignore-all}
 
-## Header
+##### Header
