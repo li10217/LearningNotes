@@ -12,6 +12,7 @@
 </head>
 <body>
   <div id="app">加载中...</div>
+  <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
   <script>
     window.$docsify = {
       name: '',
@@ -19,7 +20,24 @@
       loadSidebar: true,
       subMaxLevel: 2,
       loadNavbar: true,
-      coverpage: true
+      coverpage: true,
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/li10217/LearningNotes/tree/master/docs/'
+        ),
+        function (hook,vm) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span><a href="https://github.com/li10217">Sin</a> &copy;2017.</span>',
+            '<span>Proudly published with <a href="https://li10217.github.io/LearningNotes" target="_blank">Note</a>.</span>',
+            '</footer>'
+          ].join('')
+          hook.afterEach(function (html) {
+            return html + footer
+          })
+        }
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js" data-router data-repo="https://li10217.github.io/LearningNotes"></script>
