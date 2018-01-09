@@ -1,10 +1,10 @@
 ![logo](_media/icon.svg)
 
-# docsify
+#   Note
 
-> A magical documentation site generator.
+> A personal learning note project.
 
-- Simple and lightweight (~12kb gzipped)
+- Simple
 - Multiple themes
 - Not build static html files
 
