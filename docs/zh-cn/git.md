@@ -43,6 +43,8 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 
 * `git remote -v` 显示远程库的信息
 
+?>git subtree push --prefix dist origin gh-pages  把vue项目发布到github
+
 # 常用操作
 
 * `$ git status` 查看仓库当前状态
