@@ -1,5 +1,4 @@
-### About Vue
-
+## About Vue
 !> 发布vue到GitHub之后图片路径找不到
 ```js
 更改 build/utils.js 文件中 ExtractTextPlugin 插件的options 配置：
