@@ -1,2 +1,2 @@
 - [Git](zh-cn/git)
-- [Git](zh-cn/Aboutvue)
+- [About Vue](zh-cn/AboutVue)
