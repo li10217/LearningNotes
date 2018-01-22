@@ -1,3 +1,4 @@
 - [首页](zh-cn/)
 - [Git](zh-cn/git)
 - [About Vue](zh-cn/AboutVue)
+- [Sundry](zh-cn/Sundry)
