@@ -1,2 +1,3 @@
 - [Git](zh-cn/git)
 - [About Vue](zh-cn/AboutVue)
+- [Sundry](zh-cn/Sundry)
