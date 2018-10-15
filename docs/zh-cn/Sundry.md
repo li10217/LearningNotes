@@ -6,3 +6,7 @@
 ```
   https://www.cnblogs.com/kangy123/p/6307533.html java环境配置
 ```
+
+```
+ 远程连接密码 308068
+```
